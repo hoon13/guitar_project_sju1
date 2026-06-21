@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+ffmpeg/
+**/separated/
+**/separated/*
+IDMT-SMT-GUITAR_V2/
+dataset_final/
+raw_di/
+real_sound/
+report_assets/
+*.docx
+*.wav
